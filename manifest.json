@@ -1,0 +1,7 @@
+{
+  "version": "1.0.9",
+  "skip_tests": true,
+  "overrides": {
+    "DOCKER_BUILD_FROM_MASTER": true
+  }
+}
